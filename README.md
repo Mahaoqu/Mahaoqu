@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Sometimes I tell others I hate Leetcode. This doesn't mean that I don't like programming. It mean that I love life.
+
+在[微博](https://weibo.com/u/5123436051)和[知乎](https://www.zhihu.com/people/ma-hao-qu)上都可以关注我！
+
+
 <!--
 **Mahaoqu/Mahaoqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
