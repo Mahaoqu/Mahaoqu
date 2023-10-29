@@ -1,10 +1,14 @@
 ### Hi there 👋
 
+Coding should be fun. 
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=Mahaoqu&show_icons=true&count_private=true&theme=radical)](https://github.com/Mahaoqu)
+
 | Hello |       |
 | ---   |  ---  |
 |       | World |
 
-Coding should be fun. 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaoqu&layout=compact&theme=radical)](https://github.com/Mahaoqu)
 
 <!--
 **Mahaoqu/Mahaoqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
