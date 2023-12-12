@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-I should have a dream.
+[![Stats](https://github-readme-stats-mahaoqu.vercel.app/api?username=Mahaoqu&show_icons=true&count_private=true)](https://github.com/Mahaoqu)
 
-[![Stats](https://github-readme-stats-5pocbuhfz-mahaoqu.vercel.app/api?username=Mahaoqu&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Mahaoqu)
-
-[![Top Langs](https://github-readme-stats-5pocbuhfz-mahaoqu.vercel.app/api/top-langs/?username=Mahaoqu&layout=normal&theme=tokyonight&count_private=true)](https://github.com/Mahaoqu)
-
-[Weibo](https://weibo.com/u/5123436051) | [Zhihu](https://www.zhihu.com/people/ma-hao-qu) | [Bilibili](https://space.bilibili.com/43092521)
+[Weibo](https://weibo.com/u/5123436051) | [Zhihu](https://www.zhihu.com/people/ma-hao-qu) | [Bilibili](https://space.bilibili.com/43092521) | [Blog](https://mahaoqu.github.io)
 
 <!--
 **Mahaoqu/Mahaoqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
